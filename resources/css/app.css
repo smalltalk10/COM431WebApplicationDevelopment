@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/*Heading size*/
+h1{
+    font-size: 80px;
+}
+
+/*ajax-restricted-comment-crud background body colour*/
+#restrictedBody{
+    background-color:#f3f4f6;
+}
+
+/*dashboard homebutton positioning*/
+#homebtn{
+    float:right;
+}
